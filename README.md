@@ -145,5 +145,7 @@ Assembly Instructions are located here:
 - https://dcdark.net/2015/hhv-badge/
 - https://dcdark.net/2015/hhv-display/
 
-Other Reference
+Other References:
+
+https://github.com/thedarknet/defcon25-badge
 https://dcdark.net/2017/badge/index.html
