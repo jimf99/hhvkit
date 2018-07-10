@@ -1,5 +1,5 @@
-hhvkit
-======
+hhvkit DefCon 23
+================
 
 DefCon 23 Hardware Hacking Village Learn To Solder Kit, by:
 - Smitty, mark@halibut.com (concept, crypto, and firmware (2014))
@@ -145,3 +145,5 @@ Assembly Instructions are located here:
 - https://dcdark.net/2015/hhv-badge/
 - https://dcdark.net/2015/hhv-display/
 
+Other Reference
+https://dcdark.net/2017/badge/index.html
