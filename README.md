@@ -147,5 +147,6 @@ Assembly Instructions are located here:
 
 Other References:
 
-https://github.com/thedarknet/defcon25-badge
-https://dcdark.net/2017/badge/index.html
+- https://github.com/thedarknet/defcon25-badge
+- https://dcdark.net/2017/badge/index.html
+
